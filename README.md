@@ -16,10 +16,14 @@ Here's an outline of what your application should do:
 
 The application should have a README that explains clearly how to set it up and run it. We will attempt to run the application ourselves of course, so do us a favor by making it easy.
 
-Docs: https://apidocs.imgur.com/?version=latest
-client_id: `0d271c08bdac01c`
+Imgur API Docs: https://apidocs.imgur.com/?version=latest
+```
+client_id: 0d271c08bdac01c
 Sample Request: https://api.imgur.com/3/gallery/search?q=hollywood&client_id=0d271c08bdac01c
+```
 
-Docs: https://pixabay.com/api/docs/
-key: `15499580-557f7f4e060df559b6cff71dd`
+Pixabay API Docs: https://pixabay.com/api/docs/
+```
+key: 15499580-557f7f4e060df559b6cff71dd
 Sample Request: https://pixabay.com/api?key=15499580-557f7f4e060df559b6cff71dd&q=hollywood
+```
