@@ -9,7 +9,7 @@ Here's an outline of what your application should do:
 - [ ] After creating an account, the user should see a search bar that will allow them to search for images.
 - [ ] Searching should happen via AJAX. 
 - [ ] Your search on the backend should first look at Pixabay for results before looking Imgur.
-- [ ] For each resulting image, display metadata for that image such as name, general info, weight, height, source, and a way to directly download the image.
+- [ ] For each resulting image, display metadata (if available) for that image such as name, general info, weight, height, source, and a way to directly download the image.
 - [ ] The application should have notifications to inform users of a successful login, image results, or upon encoutering errors.
 - [ ] A user should have a history of their previous searches and downloads.
 - [ ] The app should look and feel good, as if it real users would actually use it. It should be responsive.
