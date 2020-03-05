@@ -1,4 +1,4 @@
-## The Guestbook Coding Challenge V1 Requirements
+## The Guestbook Coding Challenge V2 Requirements
 
 **Admin Image Search**
 
